@@ -1,0 +1,1 @@
+Add your uploaded school logo as logo.png in this folder.
