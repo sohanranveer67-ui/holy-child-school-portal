@@ -1,5 +1,5 @@
 const SUPABASE_URL = "https://yfnuncmhnsclqdxpahox.supabase.co";
-const SUPABASE_KEY = "PASTE_YOUR_PUBLISHABLE_KEY";
+const SUPABASE_KEY = "sb_publishable_V0W510JYnf0gRXI4_xydHg__MdSGGJP";
 
 document.getElementById("f").addEventListener("submit", async (e) => {
   e.preventDefault();
